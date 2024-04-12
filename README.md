@@ -37,8 +37,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 I had a difficulty in centering the card in the page with the justify-content : center but by using the calc on the height which i git from the Thomas Sankara youtube vide, it was able to work. Still trying to understand how it works.
 
-To see how you can add code snippets, see below:
-
 ```css
 body {
   font-family: "Outfit", sans-serif;
